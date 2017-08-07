@@ -1,3 +1,10 @@
-# First Chapter
+# Setting Up
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+How to setup your development environment used in this book.
+
+Python3
+
+Raspberry Pi
+
+Thonny?
+
